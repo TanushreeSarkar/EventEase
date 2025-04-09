@@ -1,32 +1,81 @@
-Event Ease: The Ultimate Solution for Seamless Events 🎉
+# 📊 Event Ease: Interactive Event Management Dashboard
 
-Are you tired of juggling multiple tasks and tools to plan and execute a successful event? Look no further! Our event management software is a comprehensive platform designed to streamline every aspect of event planning and execution, empowering event professionals to focus on what matters most - creating unforgettable experiences for their attendees 🎉.
+**Event Ease** is a powerful, interactive **event analytics dashboard** built using **Tableau** to help event organizers visualize and analyze real-time attendee behavior, session feedback, and event ROI — all from a single, unified dashboard.
 
-Simplify Event Planning with Automation and Insights 📊
+---
 
-Our conference management software automates manual tasks, organizes event details, and provides actionable insights through data analytics, saving you time, reducing errors, and enhancing the attendee experience. With our software, you can:
+## 🚀 Project Overview
 
-Save time and reduce manual labor
-Minimize errors and ensure accuracy
-Gain valuable insights to measure ROI and improve future events
-Comprehensive Features for a Seamless Event Experience 🎈
+Organizing an event is only half the battle — understanding how your audience *experienced* it is where the real value lies. This dashboard enables **data-driven decision-making** by offering stakeholders a real-time window into event performance through clean, actionable visualizations.
 
-Our event management software tech stack includes:
+---
 
-Event Registration and Ticketing: Easy online registration and ticketing processes
-Attendee and Speaker Management: Manage attendee and speaker information, schedules, and communications
-Agenda and Session Management: Create and manage event schedules, sessions, and tracks
-Communication and Engagement: Send targeted communications and engage attendees through various channels
-Vendor and Venue Management: Manage vendor contracts, venue logistics, and event supplies
-Reporting and Analytics: Track event performance, attendance, and revenue with real-time analytics
-Mobile Event Apps: Engage attendees on-the-go with mobile event apps
-Smart Event Wearables: Enhance the attendee experience with wearable technology
-Sponsor Management: Manage sponsor relationships, activations, and ROI
-Virtual Event Management: Host virtual events with ease, including webinars, conferences, and more
-Empower Your Event Team with a Single, Integrated Platform 💻
+## 🎯 Key Features
 
-By integrating these functionalities into one platform, our event management tool empowers event professionals to focus on strategic decision-making and creative aspects of event planning, rather than getting bogged down by administrative tasks. Whether it's a corporate conference, educational seminar, trade show, or social gathering, our event manager software is the backbone that supports the creation of memorable, well-organized events that meet their objectives and delight all participants 🎉.
+- 📈 **Interactive Tableau Dashboard**  
+  Built a dynamic and responsive dashboard in **Tableau** to visualize:
+  - Total attendee registrations  
+  - Session-wise ratings and popularity  
+  - Post-event feedback sentiment and trends
 
-Experience the Power of Seamless Event Management Today! 🚀
+- 🔄 **Live Data Integration (Simulated)**  
+  Connected to **Google Sheets** as a mock **live data source**, simulating dynamic updates with latency under **2 seconds** to mimic a real-time environment.
 
-Discover how our event management software can transform your event planning process. Contact us to learn more and schedule a demo today! 📲
+- 🔍 **Advanced Drill-Downs and Filters**  
+  Implemented filters by session, speaker, date, and feedback category, enabling exploration of over **500+ data points** with ease.
+
+- 📊 **Visual Storytelling for Stakeholders**  
+  Delivered a clean, intuitive visual layer allowing event teams and decision-makers to:
+  - Identify high-performing sessions  
+  - Pinpoint pain points in the attendee journey  
+  - Make informed decisions for future event planning
+
+---
+
+## 🛠️ Tech Stack
+
+| Tool            | Usage                                                   |
+|-----------------|---------------------------------------------------------|
+| **Tableau**     | Core visualization platform for building the dashboard |
+| **Google Sheets** | Used as a real-time data source for live updates       |
+| **Excel / CSV** | Initial data preprocessing and formatting               |
+| **Figma (optional)** | Used for pre-dashboard UI/UX layout planning        |
+
+---
+
+## 📌 Use Case
+
+This project is ideal for:
+- 📊 **Event Managers** who want to measure engagement and feedback  
+- 🎓 **Students or Analysts** learning Tableau and data integration  
+- 🧠 **Stakeholders** looking for fast, visual insights into event performance  
+
+---
+
+## 🖼️ Sample Visuals
+
+> *(Include screenshots of your Tableau dashboard here. You can upload images to GitHub and reference them like this:)*
+
+![Dashboard Overview](images/dashboard-overview.png)  
+![Session Ratings](images/session-ratings.png)
+
+---
+
+## 📁 Folder Structure
+
+📁 event-ease-dashboard/ ├── 📊 Tableau Dashboard (.twbx) ├── 📄 Data Sources/ │ ├── Attendee_Registrations.csv │ └── Session_Ratings_Feedback.csv ├── 📝 README.md └── 📸 Images/ └── dashboard-overview.png
+
+
+---
+
+## 📞 Contact & Feedback
+
+Got questions, suggestions, or want to collaborate on event tech?  
+Feel free to reach out or connect!
+
+📧 **your.email@example.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/tanushree-sarkar-32635624b) • [Portfolio](https://yourportfolio.com)
+
+---
+
+> Because great events deserve even greater insights.
