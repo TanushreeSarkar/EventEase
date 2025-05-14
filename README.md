@@ -1,8 +1,16 @@
-<div align="center">
-  <h1>🎉 EventEase Dashboard</h1>
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau Logo" width="48"/>
-  <p>A <b>powerful</b> and <b>interactive</b> visualization tool built with <b>Tableau</b> to revolutionize event management. Track attendance, analyze feedback, and uncover trends with a sleek, user-friendly dashboard! 🚀</p>
-  <img src="https://via.placeholder.com/600x300.png?text=EventEase+Dashboard+Banner" alt="EventEase Dashboard Banner" width="600"/>
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333;">
+  <h1 style="font-size: 2.5rem; margin-bottom: 0.5rem;">🎉 EventEase Dashboard<img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau Logo" width="48" style="margin-bottom: 0.5rem;"/></h1>
+
+  <p style="max-width: 600px; margin: 0 auto 1.5rem; font-size: 1.1rem;">
+    <strong>EventEase</strong> is a <strong>powerful</strong> and <strong>interactive</strong> visualization tool built with 
+    <strong>Tableau</strong> to revolutionize event management. 📊 <br/><br/>
+    Effortlessly track attendance, analyze real-time feedback, and uncover trends — all through a sleek, user-friendly dashboard! 🚀
+  </p>
+
+  <img src="https://github.com/TanushreeSarkar/EventEase/blob/main/screenshots/65e6306cf3b2d8d9cbddf979_EASE%20Logo%204.jpg" 
+       alt="EventEase Dashboard Banner" 
+       width="300" 
+       style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
 </div>
 
 ---
@@ -73,20 +81,24 @@ The **EventEase Dashboard** transforms raw event data into actionable insights, 
 
 <div align="center">
   <h3>Attendance Trends</h3>
-  <img src="https://via.placeholder.com/800x400.png?text=Attendance+Trends+Dashboard" alt="Attendance Trends Dashboard" width="600"/>
+  <img src="https://github.com/TanushreeSarkar/EventEase/blob/main/screenshots/Attendes_Analysis.png" alt="Attendance Trends Dashboard" width="600"/>
   <p>Track attendee turnout and engagement over time.</p>
 
-  <h3>Feedback Analysis</h3>
-  <img src="https://via.placeholder.com/800x400.png?text=Feedback+Analysis+Dashboard" alt="Feedback Analysis Dashboard" width="600"/>
-  <p>Visualize attendee feedback to improve future events.</p>
+  <h3>Ticket Trend Analysis</h3>
+  <img src="https://github.com/TanushreeSarkar/EventEase/blob/main/screenshots/Ticket_Trend_Analysis.png" alt=" Ticket Trend Analysis Dashboard" width="600"/>
+  <p>Visualize attendee ticket trends to improve future events.</p>
 
-  <h3>Event Performance Overview</h3>
-  <img src="https://via.placeholder.com/800x400.png?text=Event+Performance+Overview" alt="Event Performance Overview" width="600"/>
+  <h3>Event Data Analysis Overview</h3>
+  <img src="https://github.com/TanushreeSarkar/EventEase/blob/main/screenshots/Data_Analysis.png" alt="Data Analysis Overview" width="600"/>
   <p>Monitor key metrics like ticket sales and satisfaction scores.</p>
 </div>
 
-> **Note**: Replace placeholder URLs (e.g., `https://via.placeholder.com/...`) with actual screenshot URLs. Upload images to your repository’s `/screenshots` folder (e.g., `https://github.com/TanushreeSarkar/EventEase/raw/main/screenshots/attendance.png`).
+<h3>Event Demographics Analysis Overview</h3>
+  <img src="https://github.com/TanushreeSarkar/EventEase/blob/main/screenshots/demogarphic_overview.png" alt="Demographic Analysis Overview" width="600"/>
+  <p> Know the location of attendes to monitor growth.</p>
+</div>
 
+> **Note**:This dashboard is all about brains over beauty! 💡 I focused on packing in features and showcasing what I can do as a developer — not on winning any color coordination contests. 🎨😅 So if the color scheme gives you designer nightmares, just know it’s all part of the charm. Function first, flair later!
 ---
 
 ## 🛠 How to Use
