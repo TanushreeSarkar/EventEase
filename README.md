@@ -77,7 +77,7 @@ The **EventEase Dashboard** transforms raw event data into actionable insights, 
 
 ---
 
-## 📷 Screenshots
+## 📷 Preview
 
 <div align="center">
   <h3>Attendance Trends</h3>
@@ -92,7 +92,6 @@ The **EventEase Dashboard** transforms raw event data into actionable insights, 
   <img src="https://github.com/TanushreeSarkar/EventEase/blob/main/screenshots/Data_Analysis.png" alt="Data Analysis Overview" width="600"/>
   <p>Monitor key metrics like ticket sales and satisfaction scores.</p>
 </div>
-
 <h3>Event Demographics Analysis Overview</h3>
   <img src="https://github.com/TanushreeSarkar/EventEase/blob/main/screenshots/demogarphic_overview.png" alt="Demographic Analysis Overview" width="600"/>
   <p> Know the location of attendes to monitor growth.</p>
